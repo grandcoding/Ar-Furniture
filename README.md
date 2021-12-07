@@ -4,10 +4,10 @@ AR Furniture app is based on augmented reality technology tofind the matching fu
 
 ## Screenshots
 ![Screenshot](screenshots/6.jpg)
-![Screenshot](screenshots/7.JPEG)
-![Screenshot](screenshots/3.JPG)
-![Screenshot](screenshots/4.JPG)
-![Screenshot](screenshots/5.JPG)
-![Screenshot](screenshots/6.JPG)
+![Screenshot](screenshots/7.jpeg)
+![Screenshot](screenshots/3.jpg)
+![Screenshot](screenshots/4.jpg)
+![Screenshot](screenshots/5.jpg)
+![Screenshot](screenshots/6.jpg)
 
 
